@@ -1,0 +1,20 @@
+.tooltipster-sidetip.tooltipster-borderless.tooltipster-optin-cat .tooltipster-box {
+	background-color: #DE607C;
+	border-radius: 5px;
+	margin-top: 10px;
+	}
+.tooltipster-arrow-border {
+	border-top-color: #DE607C !important;
+}
+
+.tooltipster-base {
+	z-index: 999999992 !important;
+}
+.fca_eoi_lightbox {
+	width: 650px;
+}
+.featherlight {
+	background-color: rgba(0, 0, 0, 0.8);
+	width: 100%;
+	z-index: 9999990;
+}
